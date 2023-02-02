@@ -1,5 +1,16 @@
 # ProjetoBuzzfeed
 
+
+
+Buzzfeed clone utilizando angular e feito deploy através do vercel: https://angular-framework-dio-buzz-feed-clone.vercel.app/
+
+
+[screen-capture (1).webm](https://user-images.githubusercontent.com/57837644/216308415-44e53793-8e06-42f2-8973-bef69920ffc3.webm)
+
+_____________
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
